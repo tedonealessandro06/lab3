@@ -1,3 +1,9 @@
+# Buongiorno Professore,
+# purtroppo sto affrontando alcune serie difficoltà familiari ed economiche che, al momento,
+# mi impediscono di frequentare le lezioni con regolarità e di rispettare le scadenze previste.
+# svolgerò comunque tutti gli esercizi.
+# La ringrazio di cuore se terrà in considerazione, anche solo in parte, il lavoro svolto
+
 import csv
 from operator import attrgetter
 
